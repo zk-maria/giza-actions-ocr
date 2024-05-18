@@ -10,6 +10,7 @@ from datetime import datetime
 image_path = './ine.png'
 img = Image.open(image_path)
 
+
 # Convert image to grayscale
 img = cv2.cvtColor(np.array(img), cv2.COLOR_BGR2GRAY)
 
