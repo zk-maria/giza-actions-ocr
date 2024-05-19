@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="zkmaria2.jpeg" width="500" alt="Description of the image">
+  <img src="zkmaria2.jpeg" width="380" alt="Description of the image">
 </p>
 
 ### Project Name: zk-maria
@@ -102,7 +102,7 @@ This diagram shows the step-by-step process from inputting the ID image to produ
 7. **Monitor and Manage Deployments**:
    - Use Giza Platform to manage and monitor action deployments. Ensure smooth operations and quick troubleshooting.
 <p align="center">
-  <img src="dashboard.png" width="500" alt="Description of the image">
+  <img src="dashboard.png" width="800" alt="Description of the image">
 </p>
 
 
