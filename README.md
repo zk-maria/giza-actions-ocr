@@ -32,7 +32,7 @@ Ensures individuals meet age requirements for government permissions while prese
 5. **Verifiable Inference**: For secure verification, use GizaModel to perform verifiable inference, providing a proof that the age calculation was correct.
 6. **Privacy Preservation**: Only the calculated age and proof of calculation are shared, ensuring the individual's identity remains private.
 
-### Diagram (image):
+### Diagram:
 
 Here is a simple diagram to illustrate the workflow:
 
