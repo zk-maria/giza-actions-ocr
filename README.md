@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="zkmaria2.jpeg" width="500" alt="Description of the image">
+</p>
+
 ### Project Name: zk-maria
 
 ### Tagline:
