@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="zkmaria2.jpeg" width="380" alt="Description of the image">
+  <img src="zkmaria2.jpeg" width="500" alt="Description of the image">
 </p>
 
 ### Project Name: zk-maria
@@ -84,7 +84,7 @@ This diagram shows the step-by-step process from inputting the ID image to produ
 2. **Preprocess the Mexican ID**:
    - Convert the image to grayscale and apply thresholding for better OCR results.
 <p align="center">
-  <img src="ine.png" width="500" alt="Description of the image">
+  <img src="ine.png" width="380" alt="Description of the image">
 </p>
 
 3. **Extract Text Using OCR**:
