@@ -101,6 +101,10 @@ This diagram shows the step-by-step process from inputting the ID image to produ
 
 7. **Monitor and Manage Deployments**:
    - Use Giza Platform to manage and monitor action deployments. Ensure smooth operations and quick troubleshooting.
+<p align="center">
+  <img src="dashboard.png" width="500" alt="Description of the image">
+</p>
+
 
 ### Code Example:
 
