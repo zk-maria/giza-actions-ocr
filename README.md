@@ -81,8 +81,11 @@ This diagram shows the step-by-step process from inputting the ID image to produ
      pip install easyocr opencv-python-headless pillow numpy onnxruntime giza_actions
      ```
 
-2. **Preprocess the Image**:
+2. **Preprocess the Mexican ID**:
    - Convert the image to grayscale and apply thresholding for better OCR results.
+<p align="center">
+  <img src="ine.png" width="500" alt="Description of the image">
+</p>
 
 3. **Extract Text Using OCR**:
    - Use EasyOCR to extract text from the image, focusing on retrieving the birthdate.
