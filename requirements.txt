@@ -1,0 +1,9 @@
+easyocr==1.7.1
+giza_actions==0.3.2
+numpy==1.24.2
+numpy==1.21.5
+onnxruntime==1.17.0
+Pillow==10.1.0
+Pillow==9.0.1
+Pillow==10.3.0
+torch==2.3.0
